@@ -1,0 +1,24 @@
+# Node
+node_modules/
+.env
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Parcel
+.parcel-cache/
+dist/
+
+# OS
+Thumbs.db
+*.swp
+
+# Optional: VSCode or IDE specific
+.vscode/
+.idea/
+
+# Optional: system-specific
+*.bak
+*.tmp
